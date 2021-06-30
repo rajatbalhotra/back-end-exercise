@@ -14,9 +14,9 @@ app.use(bodyParser.json());
 const fs = require("fs");
 const customersFilePath = "./dummyCustomers.json";
 const moviesFilePath = "./dummyMovies.json";
-//const dummyFilePath = "./dummyCustomers.json";
 
-//creating GET route for customers
+
+//creating GET route 
 app.get('/', (req, res) => {
     res.send('Hello World');
 });

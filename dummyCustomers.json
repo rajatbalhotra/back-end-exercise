@@ -20,7 +20,7 @@
             }
           ],
           "RentalDate": "2005-06-15 00:54:12.0",
-          "Return Date": "2005-06-23 02:42:12.0",
+          "ReturnDate": "2005-06-23 02:42:12.0",
           "filmId": 611,
           "rentalId": 1185,
           "staffId": 2
@@ -513,7 +513,7 @@
             }
           ],
           "RentalDate": "2005-05-27 00:09:24.0",
-          "Return Date": "2005-05-28 04:30:24.0",
+          "ReturnDate": "2005-05-28 04:30:24.0",
           "filmId": 243,
           "rentalId": 320,
           "staffId": 2
@@ -930,7 +930,7 @@
             }
           ],
           "RentalDate": "2005-05-27 17:17:09.0",
-          "Return Date": "2005-06-02 11:20:09.0",
+          "ReturnDate": "2005-06-02 11:20:09.0",
           "filmId": 732,
           "rentalId": 435,
           "staffId": 2
