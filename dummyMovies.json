@@ -1,0 +1,98 @@
+{
+  "movies": [
+    {
+      "_id": 1,
+      "Actors": [
+        { "First name": "PENELOPE", "Last name": "GUINESS", "actorId": 1 },
+        { "First name": "CHRISTIAN", "Last name": "GABLE", "actorId": 10 },
+        { "First name": "LUCILLE", "Last name": "TRACY", "actorId": 20 },
+        { "First name": "SANDRA", "Last name": "PECK", "actorId": 30 },
+        { "First name": "JOHNNY", "Last name": "CAGE", "actorId": 40 },
+        { "First name": "MENA", "Last name": "TEMPLE", "actorId": 53 },
+        { "First name": "WARREN", "Last name": "NOLTE", "actorId": 108 },
+        { "First name": "OPRAH", "Last name": "KILMER", "actorId": 162 },
+        { "First name": "ROCK", "Last name": "DUKAKIS", "actorId": 188 },
+        { "First name": "MARY", "Last name": "KEITEL", "actorId": 198 }
+      ],
+      "Category": "Documentary",
+      "Description": "A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies",
+      "Length": "86",
+      "Rating": "PG",
+      "Rental Duration": "6",
+      "Replacement Cost": "20.99",
+      "Special Features": "Deleted Scenes,Behind the Scenes",
+      "Title": "ACADEMY DINOSAUR"
+    },
+    {
+      "_id": 2,
+      "Actors": [
+        { "First name": "BOB", "Last name": "FAWCETT", "actorId": 19 },
+        { "First name": "MINNIE", "Last name": "ZELLWEGER", "actorId": 85 },
+        { "First name": "SEAN", "Last name": "GUINESS", "actorId": 90 },
+        { "First name": "CHRIS", "Last name": "DEPP", "actorId": 160 }
+      ],
+      "Category": "Horror",
+      "Description": "A Astounding Epistle of a Database Administrator And a Explorer who must Find a Car in Ancient China",
+      "Length": "48",
+      "Rating": "G",
+      "Rental Duration": "3",
+      "Replacement Cost": "12.99",
+      "Special Features": "Trailers,Deleted Scenes",
+      "Title": "ACE GOLDFINGER"
+    },
+    {
+      "_id": 3,
+      "Actors": [
+        { "First name": "NICK", "Last name": "WAHLBERG", "actorId": 2 },
+        { "First name": "BOB", "Last name": "FAWCETT", "actorId": 19 },
+        { "First name": "CAMERON", "Last name": "STREEP", "actorId": 24 },
+        { "First name": "RAY", "Last name": "JOHANSSON", "actorId": 64 },
+        { "First name": "JULIANNE", "Last name": "DENCH", "actorId": 123 }
+      ],
+      "Category": "Documentary",
+      "Description": "A Astounding Reflection of a Lumberjack And a Car who must Sink a Lumberjack in A Baloon Factory",
+      "Length": "50",
+      "Rating": "NC-17",
+      "Rental Duration": "7",
+      "Replacement Cost": "18.99",
+      "Special Features": "Trailers,Deleted Scenes",
+      "Title": "ADAPTATION HOLES"
+    },
+    {
+      "_id": 4,
+      "Actors": [
+        { "First name": "JODIE", "Last name": "DEGENERES", "actorId": 41 },
+        { "First name": "SCARLETT", "Last name": "DAMON", "actorId": 81 },
+        { "First name": "KENNETH", "Last name": "PESCI", "actorId": 88 },
+        { "First name": "FAY", "Last name": "WINSLET", "actorId": 147 },
+        { "First name": "OPRAH", "Last name": "KILMER", "actorId": 162 }
+      ],
+      "Category": "Horror",
+      "Description": "A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank",
+      "Length": "117",
+      "Rating": "G",
+      "Rental Duration": "5",
+      "Replacement Cost": "26.99",
+      "Special Features": "Commentaries,Behind the Scenes",
+      "Title": "AFFAIR PREJUDICE"
+    },
+    {
+      "_id": 5,
+      "Actors": [
+        { "First name": "GARY", "Last name": "PHOENIX", "actorId": 51 },
+        { "First name": "DUSTIN", "Last name": "TAUTOU", "actorId": 59 },
+        { "First name": "MATTHEW", "Last name": "LEIGH", "actorId": 103 },
+        { "First name": "MATTHEW", "Last name": "CARREY", "actorId": 181 },
+        { "First name": "THORA", "Last name": "TEMPLE", "actorId": 200 }
+      ],
+      "Category": "Family",
+      "Description": "A Fast-Paced Documentary of a Pastry Chef And a Dentist who must Pursue a Forensic Psychologist in The Gulf of Mexico",
+      "Length": "130",
+      "Rating": "G",
+      "Rental Duration": "6",
+      "Replacement Cost": "22.99",
+      "Special Features": "Deleted Scenes",
+      "Title": "AFRICAN EGG"
+    }
+  ]
+}
